@@ -7,4 +7,4 @@ usually are multidimensional data arrays or tensors, that are communicated betwe
 You see? The name “TensorFlow” is derived from the operations which neural networks perform on multidimensional data arrays or tensors! It’s literally a flow of tensors.
 
 Here is a cheat sheet which contains all the important functions of TensorFlow. There are links present in the cheat sheet which will take you to some python notebooks, 
-where you can practice the functions. 
+where you can practice the functions. (Download the sheet to access the links)
